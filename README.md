@@ -1,7 +1,9 @@
 # Patnala Mythresh  
 ### *Aspiring Data Engineer | Passionate about AI, Data Science, and Cloud Computing*
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)]()
+[![Visitor Count](https://komarev.com/ghpvc/?username=Joyboy57&color=blue)]()  
+[![GitHub followers](https://img.shields.io/github/followers/Joyboy57?label=Follow&style=social)](https://github.com/Joyboy57)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mythresh-patnala/)  
 
 ---
 
@@ -17,10 +19,10 @@
 ---
 
 ## 👤 About Me
-I am **Patnala Mythresh**, a final-year **B.Tech Information Technology** student at V.R. Siddhartha Engineering College.  
-I enjoy exploring **Artificial Intelligence, Data Science, and Cloud Platforms**, with strong interests in **Virtual Reality (VR) and Extended Reality (XR)**.  
+I am **Patnala Mythresh**, a **B.Tech Information Technology** student at V.R. Siddhartha Engineering College.  
+I’m passionate about **Artificial Intelligence, Data Engineering, and Cloud Computing**, with growing interests in **Virtual & Extended Reality**.  
 
-My career goal is to become a **Data Engineer and AI Researcher**, contributing to scalable systems, smart data pipelines, and next-gen immersive technologies.  
+My career goal is to build **intelligent, scalable data systems** and contribute to **next-gen immersive technologies**.  
 
 > *“Code, Data, and Imagination — my three pillars of innovation.”*
 
@@ -28,41 +30,63 @@ My career goal is to become a **Data Engineer and AI Researcher**, contributing 
 
 ## 🛠️ Skills
 
-### Technical Skills
+<details>
+<summary>⚡ Technical Skills</summary>
+
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 - ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white)  
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+- ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+- ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
 - ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
 - ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 - ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)  
-- Data Analytics, Machine Learning, Cloud Computing
+- SQL, Cloud Computing, Data Analytics, Machine Learning  
 
-### Soft Skills
-- Problem-solving & Analytical Thinking  
+</details>
+
+<details>
+<summary>🤝 Soft Skills</summary>
+
+- Problem-solving & Critical Thinking  
 - Team Collaboration & Leadership  
 - Adaptability & Time Management  
-- Communication & Presentation  
+- Communication & Mentorship  
+
+</details>
 
 ---
 
 ## 🚀 Projects
 
-### 1. **Spicescape – Street Food Discovery App**
-A mobile app that uncovers hidden food stalls not listed on maps.  
-It helps food lovers discover new tastes and vendors gain visibility.  
+### 1. **Hand Cricket – The Vision**
+An **interactive digital hand cricket game** built with **React and JavaScript**.  
+Play against a friend or computer with real-time score updates and intuitive design.  
 
 **Technologies Used:**  
-- Django, React, Docker, AR Navigation  
+- React, JavaScript  
 
-🔗 [Repo Link](#)  
+🔗 [GitHub Repo](https://github.com/Joyboy57/hand-cricket-the-vision)  
+![Hand Cricket Screenshot](image-url)
+
+---
+
+### 2. **Spicescape – Street Food Discovery App**
+Web app that uncovers **hidden food stalls** using crowdsourced data and maps.  
+Empowers food lovers to explore, while giving visibility to vendors.  
+
+**Technologies Used:**  
+- React, Django, Docker, Leaflet.js  
+
+🔗 [GitHub Repo](https://github.com/Joyboy57/Spicescape)  
 ![Spicescape Screenshot](image-url)
 
 ---
 
-### 2. **Video Game Sales Prediction**
-A data analytics project predicting global sales of video games using **Random Forest Regression**.  
-It helps publishers forecast market performance and plan launches.  
+### 3. **Video Game Sales Prediction**
+Built a **Random Forest Regression model** to forecast global video game sales.  
+Helps publishers analyze trends and predict future demand.  
 
 **Technologies Used:**  
 - Python, Pandas, Scikit-learn, Matplotlib  
@@ -72,77 +96,84 @@ It helps publishers forecast market performance and plan launches.
 
 ---
 
-### 3. **Anonymous Chat Application**
-A real-time chat platform enabling anonymous communication.  
-Built with **Socket.io** for secure and interactive conversations.  
+### 4. **Anonymous Chat Application**
+A secure real-time **chat app** for anonymous conversations.  
+Designed with a clean UI for simple and safe interactions.  
 
 **Technologies Used:**  
-- React, Node.js, Socket.io  
+- React, Socket.io  
 
-🔗 [Repo Link](#)  
+🔗 [GitHub Repo](https://github.com/Joyboy57/anonymous-chat-application)  
 ![Chat App Screenshot](image-url)
 
 ---
 
-### 4. **E-commerce Platform for Construction Resources**
-A web platform for vendors and users to trade construction materials like cement and bricks.  
-Includes voice search, admin dashboard, and vendor management.  
-
-**Technologies Used:**  
-- Supabase, React, Django, Docker  
-
-🔗 [Repo Link](#)  
-![E-commerce Screenshot](image-url)
-
----
-
 ### 5. **Network Traffic Analysis**
-Analyzed captured packets to detect anomalies and potential cyber threats.  
-Focused on using **Nmap & Wireshark** for enhanced network security.  
+Performed network packet analysis to identify **cyber threats** and monitor **latency, throughput, and packet loss**.  
 
 **Technologies Used:**  
-- Python, Wireshark, Nmap  
+- Wireshark, Nmap, Python  
 
 🔗 [Repo Link](#)  
 ![Traffic Analysis Screenshot](image-url)
 
 ---
 
-## 💼 Experience
-- **Generative AI Virtual Internship (Google Cloud & NEAT AICTE)**  
-  *Jul 2024 – Sep 2024*  
-  - Completed 10-week training in Generative AI applications.  
-  - Built hands-on projects in NLP, ML pipelines, and Google Cloud services.  
+### 6. **Movie Recommendation System**
+Implemented a recommendation system using **PySpark + ALS, TF-IDF** to suggest movies based on features and ratings.  
 
-- **Hackathons & Freelance Projects**  
-  - Participated in hackathons, working on innovative AI and cloud projects.  
-  - Freelance projects in **React-based applications** and **data dashboards**.  
+**Technologies Used:**  
+- PySpark, Python, Google Colab  
+
+🔗 [Repo Link](#)  
+![Movie Rec Screenshot](image-url)
+
+---
+
+## 💼 Experience
+
+- **Google Generative AI Virtual Intern** *(Aug 2024 – Oct 2024)*  
+  Learned responsible AI practices, experimented with **diffusion models, Gemini**.  
+
+- **Google AI-ML Virtual Intern** *(Apr 2024 – Jun 2024)*  
+  Focused on model development, ML best practices, and data preparation.  
+
+- **Google Android Developer Virtual Intern** *(Jan 2024 – Mar 2024)*  
+  Gained hands-on Android app development experience, testing, and optimization.  
+
+- **Volunteering – Make A Difference (MAD)** *(May 2024 – Present)*  
+  - Fellow & Academic Support Volunteer  
+  - Conducted weekly classes for grades 7–9, mentored students, led initiatives.  
 
 ---
 
 ## 🏆 Certifications & Achievements
-- **Generative AI Virtual Internship Certificate** – Google Cloud, AICTE (2024)  
-- **ServiceNow CSA & CAD (In Progress)**  
-- Hackathon Participant – Built prototypes in **AI-driven apps**  
-- Academic Achievements – Consistent top performer with CGPA **8.19/10**
+- ServiceNow Certified System Administrator (CSA) – *ServiceNow*  
+- Introduction to Data Science with Python – *edX*  
+- Java Programming Fundamentals – *edX*  
+- Programming Essentials & Advanced C++ – *Cisco Networking Academy*  
+- Data Analytics with Python – *NPTEL*  
+- Data Science for Engineers – *NPTEL*  
+- Azure AI Fundamentals – *Microsoft*  
+- Prompt Engineering & Advanced ChatGPT – *edX*  
 
 ---
 
 ## 🎓 Education
 
-| Year | Degree | Institution | CGPA |
-|------|--------|-------------|------|
-| 2022–2026 | B.Tech – Information Technology | V.R. Siddhartha Engineering College | 8.19 |
-| 2020–2022 | Intermediate (MPC) | Sri Chaitanya Junior College | 91% |
-| 2019–2020 | SSC | Ravindra Bharathi School | 9.8/10 |
+| Year | Degree | Institution | GPA/CGPA |
+|------|--------|-------------|----------|
+| 2022–2026 | B.Tech – Information Technology | V.R. Siddhartha Engineering College | 3.32 (≈ 8.19/10) |
+| 2020–2022 | Intermediate (MPC) | Sri Sarada Junior College | 3.7 |
+| 2019–2020 | SSC | Ravindra Bharathi School | 4.0 |
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [mythreshpatnala@example.com](mailto:mythreshpatnala@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/mythreshpatnala](#)  
-- 🐙 GitHub: [github.com/mythreshpatnala](#)  
-- 🌐 Portfolio: [mythreshpatnala.github.io](#)  
+- 📧 Email: [mythreshpatnala@gmail.com](mailto:mythreshpatnala@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/mythresh-patnala](https://www.linkedin.com/in/mythresh-patnala/)  
+- 🐙 GitHub: [github.com/Joyboy57](https://github.com/Joyboy57)  
+- 📱 Phone: +91 6304971897  
 
 ---
